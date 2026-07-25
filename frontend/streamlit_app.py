@@ -243,14 +243,7 @@ Example questions:
 """
     )
 
-# -------------------------------
-# Display Chat History
-# -------------------------------
 
-for message in st.session_state.messages:
-
-    with st.chat_message(message["role"]):
-        st.write(message["content"])
 # -------------------------------
 # Display Chat History
 # -------------------------------
