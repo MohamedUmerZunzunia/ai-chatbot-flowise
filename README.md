@@ -96,7 +96,7 @@ ai-chatbot-flowise/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-chatbot-flowise.git
+https://github.com/MohamedUmerZunzunia/ollama-document-chatbot
 cd ai-chatbot-flowise
 ```
 
